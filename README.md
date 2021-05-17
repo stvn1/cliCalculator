@@ -10,7 +10,7 @@ Expressions calculator
 How to use:
 - npm install (in root folder)
 - calculator "(add 1 2)"  
-or 
+or    
 ./bin/run "(add 1 2)"
 
 
