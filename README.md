@@ -9,6 +9,7 @@ Expressions calculator
    
 How to use:
 - npm install (in root folder)
+- npm link
 - calculator "(add 1 2)"  
 or    
 ./bin/run "(add 1 2)"
